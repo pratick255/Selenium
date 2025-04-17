@@ -1,6 +1,6 @@
-# 🛫 MakeMyTrip Flight Search Automation
+# 🛫 Flight Search Automation
 
-This project automates the flight search flow on [MakeMyTrip](https://www.makemytrip.com) using **Java + Selenium WebDriver**.
+This project automates the flight search flow on using **Java + Selenium WebDriver**.
 
 The script:
 - Selects `From`: **New Delhi (DEL)**
